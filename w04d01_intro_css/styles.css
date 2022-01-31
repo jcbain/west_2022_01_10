@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+.party {
+  /* color: rgb(119, 77, 77); */
+  color: #fffff7;
+}
+
+
+h2, p {
+  background-color: darkmagenta;
+  color: papayawhip;
+}
+
+img {
+  width: 150px;
+}
+
+main {
+  border: 10px solid salmon;
+  padding: 20px;
+  width: 300px;
+}
